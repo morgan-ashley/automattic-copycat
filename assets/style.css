@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    width: 100%;
+    background: #fff;
+    counter-reset: a;
+}
+.container {
+    width: 75%;
+}
+.container-fluid {
+    margin-top: 0;
+    padding-top: 0;
+    padding-right: 0;
+}
+h1.header {
+    font-size: 4.5em;
+    margin-bottom: 30px;
+}
+h1.header span {
+    font-style: italic;
+    font-family: 'Cormorant Infant', serif;
+}
+h1 {
+    font-family: 'Lusitana', serif;
+    font-weight: 700;
+    position: relative;
+    display: block;
+    width: 100%;
+}
+p {
+    font-family: 'Lusitana', serif;
+    font-size: 1.2em;
+}
+.col-md-12 {
+    width: 100%
+}
+.row {
+    margin: 0 auto;
+    display: block;
+}
+.col-md-4 a {
+    color: #3399CC;
+}
+.col-md-4 h1 {
+    font-size: 2em;
+    margin-bottom: 5px;
+}
+.navbar-brand {
+    padding-right: 208px;
+}
+/* navbar */
+
+.navbar-default {
+    background-color: transparent;
+    border-right: transparent;
+    border-left: transparent;
+    border-radius: 0;
+    border-top: 3px solid #000;
+    border-bottom: 1px solid #ccc;
+    height: 65px;
+    width: 75%;
+    margin-left: 12%;
+    margin-right: 8%;
+    margin-top: 30px;
+}
+.navbar-default .navbar-nav > li > a span {
+    display: inline;
+    color: #666;
+    font-family: 'Lusitana', serif;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #000;
+    padding-top: 20px;
+    margin-left: 20px;
+    padding-left: 0;
+    font-family: 'Lusitana', serif;
+    font-weight: 800;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #3399CC;
+}
+.navbar-default .navbar-nav > li > a.active {
+    color: #3399CC;
+}

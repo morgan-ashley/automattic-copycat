@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Automattic</title>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Lusitana|Cormorant+Infant' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="assets/style.css">
+</head>
+<body>
+    <nav class="navbar navbar-default navbar-static-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a href="#" class="navbar-brand"><img src="assets/img/automattic-logo.png" alt="automattic logo">
+                </a>
+            </div>
+            <ol class="nav navbar-nav" role="menu">
+                <li><a href="#" class="active"><span>1. </span>Home</a></li>
+                <li><a href="#"><span>2. </span>About Us</a></li>
+                <li><a href="#"><span>3. </span>News</a></li>
+                <li><a href="#"><span>4. </span>Work With Us</a></li>
+            </ol>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="header"><span>We are</span> passionate about making <span>the web</span> a better place.</h1>
+            </div>
+            <div class="row">
+                <div class="col-md-4 top">
+                    <h1><a href="#">WordPress.com</a></h1>
+                    <p>Your blog or website
+                        <br>Has a (free!) home on the web.
+                        <br>Your story, your way.</p>
+                    <h1><a href="#">WooCommerce</a></h1>
+                    <p>Selling online? Woo!
+                        <br>Hang your digital shingle
+                        <br>With this free plugin.</p>
+                    <h1><a href="#">Longreads</a></h1>
+                    <p>Great storytelling,
+                        <br>long enough to dig into.
+                        <br>Find it and share it.</p>
+                    <h1><a href="#">Cloudup</a></h1>
+                    <p>Links, files, photos, more!
+                        <br>Beam them to the cloud and share.
+                        <br>Sounds awesome? It is.</p>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <h1><a href="#">Jetpack</a></h1>
+                        <p>Stats, backups, speed, power:
+                            <br>The first plugin your site needs
+                            <br>Has it all built in.</p>
+                        <h1><a href="#">VautlPress</a></h1>
+                        <p>Your site, safe and sound.
+                            <br>Auto-backups and scanning.
+                            <br>Always on the job.</p>
+                        <h1><a href="#">Simplenote</a></h1>
+                        <p>Synchronization.
+                            <br>Now your notes are everywhere,
+                            <br>On every device.</p>
+                        <h1><a href="#">Simperium</a></h1>
+                        <p>Use one API
+                            <br>To move data across apps.
+                            <br>And whomp! There it is.</p>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <h1><a href="#">WordPress.com VIP</a></h1>
+                            <p>Time, Fortune, TED, Quartz.
+                                <br>Big? The bigger the better.
+                                <br>We handle them all.</p>
+                            <h1><a href="#">Akismet</a></h1>
+                            <p>Did someone say spam?
+                                <br>Akismet filters it out.
+                                <br>Nothing to see here.</p>
+                            <h1><a href="#">Polldaddy</a></h1>
+                            <p>Opinions! We all
+                                <br>Have them. Collect your readers’
+                                <br>With polls and surveys.</p>
+                            <h1><a href="#">Gravatar</a></h1>
+                            <p>Global avatar —
+                                <br>“Gravatar,” get it? One pic
+                                <br>For all your profiles.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
